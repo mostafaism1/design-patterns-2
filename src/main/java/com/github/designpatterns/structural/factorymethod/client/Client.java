@@ -1,4 +1,4 @@
-package com.github.designpatterns.structural.factorymethod;
+package com.github.designpatterns.structural.factorymethod.client;
 
 import com.github.designpatterns.structural.factorymethod.creator.Creator;
 import com.github.designpatterns.structural.factorymethod.creator.CreatorA;
